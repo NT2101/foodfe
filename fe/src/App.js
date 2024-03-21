@@ -31,10 +31,10 @@ const App = () => {
     setSearch(event.target.value);
   };
 const Style = {
-    width: "300px",
-    height: "40px",
-    fontSize: "16px",
-    padding: "8px",
+    width: "200px",
+    height: "30px",
+    fontSize: "20px",
+   
   
   };
   const style2 = {
